@@ -1,0 +1,2 @@
+In this notebook, we'll work with a dataset of historical FIFA rankings for six countries: Argentina (ARG), Brazil (BRA), Spain (ESP), France (FRA), Germany (GER), and Italy (ITA). 
+The dataset is stored as a CSV file
